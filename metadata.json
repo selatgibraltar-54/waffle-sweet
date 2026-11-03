@@ -1,0 +1,6 @@
+{
+  "name": "NanoVM",
+  "description": "Ultra-lightweight Virtual Machine with CLI terminal and Light OS graphical desktop (/install --gui_system_comp and /run gui_system), responsive touch controls, and low-host-RAM optimization for low-end hardware.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
